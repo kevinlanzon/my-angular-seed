@@ -3,15 +3,10 @@ My Angular Seed
 
 This project is my version of an application skeleton for a typical AngularJS web app with a passing unit test and a passing feature test set up and bootstrap for styling.
 
-How to clone this repo
-----
-```sh
-git clone https://github.com/kevinlanzon/my-angular-seed
-```
-
 Setup
 -----
 ```sh
+$ git clone https://github.com/kevinlanzon/my-angular-seed
 $ cd my-angular-seed
 $ npm install
 $ bower install
