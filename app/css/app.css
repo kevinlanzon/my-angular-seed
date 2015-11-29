@@ -33,11 +33,3 @@ body {
   background-color: #fff;
   padding-top: 100px;
 }
-
-/* RESPONSIVE BODY CONTENT */
-@media only screen and (max-width :767px) {
-
-  body {
-    padding-top: 200px;
-  }
-}
